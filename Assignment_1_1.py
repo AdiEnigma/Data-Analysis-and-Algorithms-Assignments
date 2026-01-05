@@ -1,3 +1,4 @@
+#given a sorted element and num x ,search two elements and sum should be x
 a = [1,2,3,4,5]
 x = 4
 prev = a[0]
